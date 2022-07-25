@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="test" tvg-name="K+ Kids" group-title="K+",K+KIDS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cwip-shaka-proxy.appspot.com/no_auth
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/mpds/11331.mpd
